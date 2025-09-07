@@ -32,7 +32,7 @@ Search with specific engines:
 python3 darkweb-search-R.py "cats" --engines ahmia onionland  
 
 **🔧 Adding New Engines**  
-Edit search_engines.json and add darkweb sites using the format below:  
+I will aim to add more search engines shortly. But you can add your own darkweb search engines by editing the "search_engines.json" file and adding darkweb search sites using the format below:  
 
 "ahmia": {  
   "url": "http://ahmiafi3n2nldsy.onion/search/?q={query}",  
