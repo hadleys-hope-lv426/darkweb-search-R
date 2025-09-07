@@ -1,0 +1,6 @@
+aiohttp
+aiohttp-socks
+beautifulsoup4
+lxml
+rich
+sqlite-utils
